@@ -11,7 +11,7 @@
 - 📫 How to reach me **y2k@undernet.org**
 - ⚡ Fun fact **Love drums, family, friends, irc, life**
 
-![unixfool GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfool) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact)
+![unixfool GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfool&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unixfool&" alt="unixfool" /></p>
 
