@@ -1,4 +1,4 @@
-<p><img src="https://www.noxpc.es/images/unixfool.jpg" alt="unixfool" style="border-radius:100px;border-color:#ffffff;"/></p>
+<p align="center"> <img src="https://www.noxpc.es/images/unixfool.jpg" alt="unixfool"/></p>
 
 <h1 align="center">Hi 👋, I'm unixfool</h1>
 <h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
