@@ -1,3 +1,5 @@
+<p><img src="https://www.noxpc.es/images/unixfool.jpg" alt="unixfool" style="border-radius:100px;border-color:#ffffff;"/></p>
+
 <h1 align="center">Hi 👋, I'm unixfool</h1>
 <h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unixfool&label=Profile%20views&color=0e75b6&style=flat" alt="unixfool" /> </p>
