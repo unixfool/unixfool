@@ -11,9 +11,10 @@
 - 📫 How to reach me **y2k@undernet.org**
 - ⚡ Fun fact **Love drums, family, friends, irc, life**
 
+<h2 align="center"> :relaxed: My GitHub stats :</h2>
+
 ![unixfool GitHub stats](https://github-readme-stats.vercel.app/api?username=unixfool&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact&theme=dark)
 
-<h2 align="center"> :relaxed: My GitHub stats :</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unixfool&theme=dark" alt="unixfool" /></p>
 
 <hr/>
