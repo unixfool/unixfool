@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm unixfool</h1>
 <h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
 
-<p align="center"> 
-![Profile Views](https://komarev.com/ghpvc/?username=unixfool&label=Profile%20views&color=yellow&style=flat-square")
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W) 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unixfool&label=Profile%20views&color=yellow&style=flat-square" alt="unixfool" />  </p> 
 
 - 🔭 I’m currently working on [GNUWorld Voting System](https://github.com/GNUWorldChannel)
 - 🌱 I’m currently learning **All**
@@ -34,3 +31,5 @@
 
 <h2 align="center"> :chart: My GitHub stats :</h2>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=unixfool&theme=onedark" alt="unixfool" /> </p>
+
+[![SHOW ME SOME LOVE](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
