@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm unixfool</h1>
 <h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=unixfool&label=Profile%20views&color=yellow&style=flat-square" alt="unixfool" />  </p> 
+<p align="center"> 
+  
+  ![Visitors] (https://komarev.com/ghpvc/?username=unixfool&label=Profile%20views&color=yellow&style=flat-square) 
+  
+  </p> 
 
 - 🔭 I’m currently working on [GNUWorld Voting System](https://github.com/GNUWorldChannel)
 - 🌱 I’m currently learning **All**
