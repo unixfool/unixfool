@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with **other projects**
 - 👨‍💻 All of my projects are available at [https://github.com/unixfool](https://github.com/unixfool)
 - 📝 I regularly write articles on [https://ircayuda.org](https://ircayuda.org)
-- 📫 How to reach me **y2k@undernet.org**
+- 📫 How to reach me **y2k[at]undernet.org**
 - ⚡ Fun fact **Love drums, family, friends, irc, life**
 
 <p><a href="https://www.buymeacoffee.com/unixfool"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
