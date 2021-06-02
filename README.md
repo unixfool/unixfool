@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm y2k@unixfool</h1>
 <h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
 
-- 🔭 I’m currently working on [GNUWorld Voting System](https://github.com/GNUWorldChannel)
-- 🌱 I’m currently learning **All**
+- 🔭 I’m currently working on [PHP 7/8 IRC SOCKET BOT]
+<!--- 🌱 I’m currently learning **All**
 - 👯 I’m looking to collaborate on **New cool Projects**
-- 🤝 I’m looking for help with **other projects**
+- 🤝 I’m looking for help with **other projects**-->
 - 👨‍💻 All of my projects are available at [https://github.com/unixfool](https://github.com/unixfool)
 - 📝 I regularly write articles on [https://ircayuda.org](https://ircayuda.org)
-- 📫 How to reach me **y2k[at]undernet.org**
+- 📫 How to reach me **y2k[at]noxpc[dot]es**
 - ⚡ Fun fact **Love drums, family, friends, irc, life**
 
 <p><a href="https://www.buymeacoffee.com/unixfool"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
