@@ -1,7 +1,7 @@
 <!--<p align="center"> <img src="https://www.noxpc.es/images/unixfool.png" alt="unixfool"/></p>-->
 
 <h1 align="center">Hi 👋, I'm y2k@unixfool</h1>
-<h3 align="center">A passionate developer from Dominican Republic, living in Spain</h3>
+<h3 align="center">A passionate developer</h3>
 
 <!--
 
