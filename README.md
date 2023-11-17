@@ -23,5 +23,3 @@
 <h2 align="center"> :chart: My GitHub stats :</h2>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=unixfool&theme=onedark" alt="unixfool" /> </p>
 
-[![SHOW ME SOME LOVE](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
-
