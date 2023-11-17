@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm y2k@unixfool</h1>
 <h3 align="center">A passionate developer</h3>
 
-<!--
+
 
 <p><a href="https://www.buymeacoffee.com/unixfool"> <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=unixfool&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
 
@@ -24,4 +24,4 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=unixfool&theme=onedark" alt="unixfool" /> </p>
 
 [![SHOW ME SOME LOVE](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=UFGGRHGXKW64W)
--->
+
