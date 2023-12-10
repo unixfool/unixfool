@@ -3,4 +3,4 @@
 <h1 align="center">Hi 👋, I'm y2k@unixfool</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact&theme=dark) </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact&theme=dark)
