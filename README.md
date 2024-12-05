@@ -4,3 +4,5 @@
 <h3>A passionate developer</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unixfool&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=unixfool)](https://github.com/ryo-ma/github-profile-trophy)
