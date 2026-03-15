@@ -15,7 +15,7 @@ y2k
   OS      : FreeBSD / Arch Linux / Kali Linux
   Shell   : Zsh + Oh My Zsh
   Editor  : Neovim
-  Focus   : Automation · Low-level systems · DevSecOps · Security · Software Engineering
+  Focus   : Focus   : Security (Server Security · Pentesting · Hacking) · Web · IRC · RBL · AI · Robotics · Linux/Unix · Automation · Low-level Systems · DevSecOps · Software Engineering
   Status  : Always learning ▮
 ```
 
