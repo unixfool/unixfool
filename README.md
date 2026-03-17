@@ -12,7 +12,7 @@ y2k
   Role    : Systems Engineer | Security Researcher | Automation Architect
   Exp     : 25+ years in the field
   Degree  : B.Sc. in Computer Systems Engineering
-  OS      : FreeBSD / Arch Linux / Kali Linux
+  OS      : FreeBSD / Ubuntu / Kali Linux
   Shell   : Zsh + Oh My Zsh
   Editor  : Neovim
   Focus   : Security (Server Security · Pentesting · Hacking) · Web · IRC · RBL · AI · Robotics 
